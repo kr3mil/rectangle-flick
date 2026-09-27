@@ -22,6 +22,8 @@ you preview and arrange the focused window without clicking or dragging it.
 This is an independent Windhawk mod, not affiliated with Rectangle Pro or its
 developer. It recreates the core interaction, not Rectangle Pro's full feature set.
 
+[Source code, releases and issue reports](https://github.com/kr3mil/rectangle-flick)
+
 ## How to use
 
 1. Focus the window you want to arrange. Your cursor can be anywhere on screen.
